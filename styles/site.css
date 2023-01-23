@@ -1,0 +1,46 @@
+em {
+  font-style: normal; /* removes italics */
+  font-weight: bold; /* adds bold */
+}
+
+body {
+  font-family: sans-serif; /* removes italics */
+  font-weight: normal; /* adds bold */
+  background-color: #E7DECD;
+  color: #896A67
+}
+
+body {
+  background-color: #E7DECD;
+  font-size: large;
+}
+
+h1 {
+  color: #896A67;
+}
+
+h2 {
+  color: #896A67;
+}
+
+p {
+  color: #896A67;
+  background-color: #E7DECD;
+
+}
+
+li {
+  color: #896A67;
+}
+
+li {
+  font-size: x-large;
+}
+
+dt {
+  text-decoration: underline;
+}
+
+dd {
+  font-weight: bold;
+}
